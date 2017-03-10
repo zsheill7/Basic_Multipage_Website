@@ -1,5 +1,20 @@
 ## Welcome to GitHub Pages
 
+
+<img src="README images/initial folder.png" alt="tutorial image">
+<img src="README images/basic html.png" alt="tutorial image">
+<img src="README images/finder screenshot2.png" alt="tutorial image">
+<img src="README images/finder screenshot.png" alt="tutorial image">
+<img src="README images/list w/o.png" alt="tutorial image">
+<img src="README images/basic multipage.png" alt="tutorial image">
+<img src="README images/cupcake.png" alt="tutorial image">
+<img src="README images/mexican.png" alt="tutorial image">
+<img src="README images/dab.png" alt="tutorial image">
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/zsheill7/Basic_Multipage_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
