@@ -11,8 +11,74 @@
 <img src="README images/mexican.png" alt="tutorial image">
 <img src="README images/dab.png" alt="tutorial image">
 
+```markdown
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Multipage Website</title>
+</head>
+<body>
 
+</body>
+</html>
+```
 
+```markdown
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Multipage Website</title>
+</head>
+<body>
+	<nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+      </ul>
+    </nav>
+</body>
+</html>
+```
+
+```markdown
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Multipage Website</title>
+</head>
+<body>
+	<nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+              <li><a href="page2.html">Page 2</a></li>
+              <li><a href="page3.html">Page 3</a></li>
+              <li><a href="page4.html">Page 4</a></li>
+              <li><a href="page5.html">Page 5</a></li>
+      </ul>
+    </nav>
+</body>
+</html>
+```
+
+```markdown
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Multipage Website</title>
+</head>
+<body>
+	<nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+              <li><a href="page2.html">Page 2</a></li>
+              <li><a href="page3.html">Page 3</a></li>
+              <li><a href="page4.html">Page 4</a></li>
+              <li><a href="page5.html">Page 5</a></li>
+      </ul>
+    </nav>
+    <img width="300" src="images/cupcake.jpg" alt="emoji">
+</body>
+</html>
+```
 
 
 You can use the [editor on GitHub](https://github.com/zsheill7/Basic_Multipage_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
