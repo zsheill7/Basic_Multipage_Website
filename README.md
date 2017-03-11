@@ -1,6 +1,16 @@
 ## Welcome to GitHub Pages
 
+<p>Prerequisites:</p>
+<p>To complete this tutorial, you will need a text editor.  If you don't have one, feel free to download one below.  Brackets is entirely free and great for creating websites.</p>
 
+<a href="http://brackets.io/">Brackets</a>
+<a href="https://www.sublimetext.com/">https://www.sublimetext.com/</a>
+
+
+
+<p>Now you know how to set up a basic one-page website, but how on earth do you set up a website with multiple pages?  In this tutorial, we're going to learn how to set up a basic multipage website using lists and list items. </p>
+
+<p>First, you want to create a new folder in your Documents directory (or any other directory, for that matter). Open Brackets or another text editor and create a new file.  Name it "index.html"   </p>
 <img src="README images/initial folder.png" alt="tutorial image">
 <img src="README images/basic html.png" alt="tutorial image">
 <img src="README images/finder screenshot2.png" alt="tutorial image">
