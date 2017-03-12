@@ -12,14 +12,33 @@
 
 <p>First, you want to create a new folder in your Documents directory (or any other directory, for that matter). Open Brackets or another text editor and create a new file.  Name it "index.html"   </p>
 <img src="README images/initial folder.png" alt="tutorial image">
+
+<p>Next, open up your text editor and enter the following code.  As we learned in the first tutorial (<a href="https://zsheill7.github.io/Github-Setup-Tutorial/">Github Setup Tutorial</a>), this code sets up the basic structure for a webpage. </p>
+
 <img src="README images/basic html.png" alt="tutorial image">
+<p>Next, right click your "index.html" file and select "duplicate" to create the other pages of your app. Feel free to name them anything you want, but make sure they still end with the extension ".html"</p>
+
 <img src="README images/finder screenshot2.png" alt="tutorial image">
+<p>Next, create a new folder in your root directory (the folder containing your files) and name it "images." Find several pictures you want to include in the separate pages of your website and place them in this folder.  </p>
+
+
 <img src="README images/finder screenshot.png" alt="tutorial image">
+<p></p>
+
 <img src="README images/list w/o.png" alt="tutorial image">
+<p>Right-click your index.html file and click "Open in..."  Select your web browser.  You should have your simple multipage website in front of you!</p>
+
+
 <img src="README images/basic multipage.png" alt="tutorial image">
+<p></p>
 <img src="README images/cupcake.png" alt="tutorial image">
-<img src="README images/mexican.png" alt="tutorial image">
+
+
+<p>If I click on the first link, it takes me to a page with an awesome dab emoji.  Success!</p>
+
 <img src="README images/dab.png" alt="tutorial image">
+<p></p>
+
 
 ```markdown
 <!DOCTYPE html>
